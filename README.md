@@ -19,20 +19,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 🚀 Link 
 Para acessar ao site do projeto clique no link abaixo:
-- [Link](https://)
+- [Link](https://m-abdias.github.io/Pokedex-Desafio-Startse/index.html)
 
 
 ## 🔖 Layout do Projeto
 - Page Home
+![image](https://user-images.githubusercontent.com/98291335/178171337-7e953d96-26ce-4e92-a216-9683b3a40c9c.png)
 
+- Page Lista de Pokemons
+![image](https://user-images.githubusercontent.com/98291335/178171376-2d3031b4-fb0f-4770-9282-4b1c37154310.png)
 
-- Page List Pokemons
-
-
-- Page Details
-
-
-
+- Page Detalhes dos Pokemons
+![image](https://user-images.githubusercontent.com/98291335/178171402-2135368c-0f44-46bc-b434-5c56ab0b3c61.png)
 
 
 ## 🤝 Desenvolvido por
